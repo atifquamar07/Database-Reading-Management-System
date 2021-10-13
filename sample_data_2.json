@@ -1,0 +1,230 @@
+[
+	{
+		"id": 0,
+		"first_name": "Joey",
+		"last_name": "Tribbiani",
+		"age": 29,
+		"gender": "male",
+		"address": {
+			"house_no": 637,
+			"block": "VZB",
+			"town": "Mustafabad",
+			"city": "Siri",
+			"state": "Kerala",
+			"pincode": 110014
+		},
+		"education": [
+			{
+				"institute": "EEFF",
+				"ongoing": true
+			}
+		],
+		"blood_group": "B",
+		"contacts": [
+			"299854838"
+		],
+		"friend_ids": [
+			1,
+			4,
+			5
+		]
+	},
+	{
+		"id": 1,
+		"first_name": "Chandler",
+		"last_name": "Bing",
+		"age": 32,
+		"gender": "male",
+		"address": {
+			"house_no": 782,
+			"block": "OR",
+			"town": "Mustafabad",
+			"city": "Mehrauli",
+			"state": "Dadra and Nagar Haveli",
+			"pincode": 110014
+		},
+		"education": [
+			{
+				"institute": "AABB",
+				"ongoing": false,
+				"percentage": 92.62462
+			},
+			{
+				"institute": "AABB",
+				"ongoing": false,
+				"percentage": 22.12345
+			}
+		],
+		"blood_group": "AB",
+		"contacts": [
+			"323747351"
+		],
+		"friend_ids": [
+			0
+		]
+	},
+	{
+		"id": 2,
+		"first_name": "Ross",
+		"last_name": "Geller",
+		"age": 31,
+		"gender": "male",
+		"address": {
+			"house_no": 70,
+			"block": "Y",
+			"town": "Sultanpur Majra",
+			"city": "New Delhi",
+			"state": "Dadra and Nagar Haveli",
+			"pincode": 110008
+		},
+		"education": [
+			{
+				"institute": "CCDD",
+				"ongoing": false,
+				"percentage": 93.66164
+			},
+			{
+				"institute": "EEFF",
+				"ongoing": true
+			},
+			{
+				"institute": "GGHH",
+				"ongoing": true
+			}
+		],
+		"blood_group": "B",
+		"contacts": [
+			"769498829",
+			"738843112"
+		],
+		"friend_ids": []
+	},
+	{
+		"id": 3,
+		"first_name": "Monica",
+		"last_name": "Geller",
+		"age": 27,
+		"gender": "female",
+		"address": {
+			"house_no": 576,
+			"block": "P",
+			"town": "Dallo Pura",
+			"city": "Shahjehabanad",
+			"state": "Chandigarh",
+			"pincode": 110001
+		},
+		"education": [
+			{
+				"institute": "QQRR",
+				"ongoing": false,
+				"percentage": 76.71175
+			},
+			{
+				"institute": "AABB",
+				"ongoing": false,
+				"percentage": 32.28367
+			},
+			{
+				"institute": "MMNN",
+				"ongoing": false,
+				"percentage": 52.28367
+			},
+			{
+				"institute": "GGHH",
+				"ongoing": true
+			}
+		],	
+		"blood_group": "B",
+		"contacts": [
+			"757304909"
+		],
+		"friend_ids": [
+			0,
+			4
+		]
+	},
+	{
+		"id": 4,
+		"first_name": "Rachel",
+		"last_name": "Green",
+		"age": 36,
+		"gender": "female",
+		"address": {
+			"house_no": 779,
+			"block": "UP",
+			"town": "Deoli",
+			"city": "Shergarh",
+			"state": "Andhra Pradesh",
+			"pincode": 110015
+		},
+		"education": [
+			{
+				"institute": "MMNN",
+				"ongoing": false,
+				"percentage": 42.81274
+			},
+			{
+				"institute": "KKLL",
+				"ongoing": false,
+				"percentage": 1.23456
+			},
+			{
+				"institute": "IIJJ",
+				"ongoing": true
+			}
+		],
+		"blood_group": "A",
+		"contacts": [
+			"641271114"
+		],
+		"friend_ids": [
+			0,
+			3,
+			5
+		]
+	},
+	{
+		"id": 5,
+		"first_name": "Phoebe",
+		"last_name": "Buffey",
+		"age": 60,
+		"gender": "female",
+		"address": {
+			"house_no": 779,
+			"block": "UP",
+			"town": "Deoli",
+			"city": "Shergarh",
+			"state": "Andhra Pradesh",
+			"pincode": 110015
+		},
+		"education": [
+			{
+				"institute": "MMNN",
+				"ongoing": false,
+				"percentage": 98.76543
+			},
+			{
+				"institute": "KKLL",
+				"ongoing": false,
+				"percentage": 99.99999
+			},
+			{
+				"institute": "EEFF",
+				"ongoing": false,
+				"percentage": 10.00000
+			},
+			{
+				"institute": "OOPP",
+				"ongoing": true
+			}
+		],
+		"blood_group": "A",
+		"contacts": [
+			"641271115"
+		],
+		"friend_ids": [
+			0,
+			4
+		]
+	}
+]
